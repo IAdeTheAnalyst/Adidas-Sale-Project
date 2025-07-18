@@ -19,7 +19,8 @@ This project explores sales performance data for Adidas products across differen
 
 ## 📊 Dashboard Preview
 
-![Adidas Excel Dashboard](images/Adidas Dashboard.png)
+![Adidas Excel Dashboard](images/adidas-dashboard.png)
+
 
 ---
 
